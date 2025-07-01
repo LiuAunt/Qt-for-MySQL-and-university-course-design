@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image1">
+        <file>images/购物 礼盒.png</file>
+    </qresource>
+</RCC>
